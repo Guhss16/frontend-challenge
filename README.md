@@ -6,7 +6,7 @@ Aplicação frontend de um marketplace de NFTs desenvolvida com **React** e **Ty
 
 A aplicação estará disponível para acesso online por meio da Vercel.
 
-**Acesse o projeto:** frontend-challenge-theta-five.vercel.app
+**Acesse o projeto:** [frontend-challenge-theta-five.vercel.app](https://frontend-challenge-theta-five.vercel.app)
 
 ## Tecnologias
 
